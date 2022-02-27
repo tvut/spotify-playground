@@ -1,0 +1,34 @@
+{
+  collaborative: false,
+  description: 'not rap',
+  external_urls: {
+    spotify: 'https://open.spotify.com/playlist/0KjmwZJNRL3S9qF8kDB6YO'
+  },
+  href: 'https://api.spotify.com/v1/playlists/0KjmwZJNRL3S9qF8kDB6YO',
+  id: '0KjmwZJNRL3S9qF8kDB6YO',
+  images: [
+    {
+      height: null,
+      url: 'https://i.scdn.co/image/ab67706c0000bebb74bb59a21fcc224f8f42fd31',
+      width: null
+    }
+  ],
+  name: 'pop',
+  owner: {
+    display_name: 'Tristan Stevens',
+    external_urls: { spotify: 'https://open.spotify.com/user/tristantheawesome1' },
+    href: 'https://api.spotify.com/v1/users/tristantheawesome1',
+    id: 'tristantheawesome1',
+    type: 'user',
+    uri: 'spotify:user:tristantheawesome1'
+  },
+  primary_color: null,
+  public: true,
+  snapshot_id: 'MzIwLGMzZTZiYzhkYTgwOTU1N2EzMTcwOTg2NTlkMzJjMGU2OGM3YzE3OTE=',
+  tracks: {
+    href: 'https://api.spotify.com/v1/playlists/0KjmwZJNRL3S9qF8kDB6YO/tracks',
+    total: 414
+  },
+  type: 'playlist',
+  uri: 'spotify:playlist:0KjmwZJNRL3S9qF8kDB6YO'
+}

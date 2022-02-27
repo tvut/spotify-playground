@@ -1,0 +1,272 @@
+[33m[nodemon] 2.0.15[39m
+[33m[nodemon] to restart at any time, enter `rs`[39m
+[33m[nodemon] watching path(s): *.*[39m
+[33m[nodemon] watching extensions: js,mjs,json[39m
+[32m[nodemon] starting `node app.js`[39m
+App is listening on port 8888
+------------------------------------------------------------------------------------------------
+{
+  collaborative: false,
+  description: '',
+  external_urls: {
+    spotify: 'https://open.spotify.com/playlist/3J4cvaaBSToZAqTNenBvD7'
+  },
+  href: 'https://api.spotify.com/v1/playlists/3J4cvaaBSToZAqTNenBvD7',
+  id: '3J4cvaaBSToZAqTNenBvD7',
+  images: [
+    {
+      height: 640,
+      url: 'https://mosaic.scdn.co/640/ab67616d0000b273a30bc7a275cc3e72011d9891ab67616d0000b273af76c5802026c1f59205016eab67616d0000b273b819df1050583c7ab76dae31ab67616d0000b273d44ae936de581785d6870764',
+      width: 640
+    },
+    {
+      height: 300,
+      url: 'https://mosaic.scdn.co/300/ab67616d0000b273a30bc7a275cc3e72011d9891ab67616d0000b273af76c5802026c1f59205016eab67616d0000b273b819df1050583c7ab76dae31ab67616d0000b273d44ae936de581785d6870764',
+      width: 300
+    },
+    {
+      height: 60,
+      url: 'https://mosaic.scdn.co/60/ab67616d0000b273a30bc7a275cc3e72011d9891ab67616d0000b273af76c5802026c1f59205016eab67616d0000b273b819df1050583c7ab76dae31ab67616d0000b273d44ae936de581785d6870764',
+      width: 60
+    }
+  ],
+  name: 'house',
+  owner: {
+    display_name: 'Tristan Stevens',
+    external_urls: { spotify: 'https://open.spotify.com/user/tristantheawesome1' },
+    href: 'https://api.spotify.com/v1/users/tristantheawesome1',
+    id: 'tristantheawesome1',
+    type: 'user',
+    uri: 'spotify:user:tristantheawesome1'
+  },
+  primary_color: null,
+  public: true,
+  snapshot_id: 'MTAsNGUzNGJlY2E3YzBmZjllYzc2MWRkNGQwNjZlMWM1OTAxMDFiY2IwZQ==',
+  tracks: {
+    href: 'https://api.spotify.com/v1/playlists/3J4cvaaBSToZAqTNenBvD7/tracks',
+    total: 7
+  },
+  type: 'playlist',
+  uri: 'spotify:playlist:3J4cvaaBSToZAqTNenBvD7'
+}
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+{
+  collaborative: false,
+  description: '',
+  external_urls: {
+    spotify: 'https://open.spotify.com/playlist/7543D3K7f1UArH68V4chp3'
+  },
+  href: 'https://api.spotify.com/v1/playlists/7543D3K7f1UArH68V4chp3',
+  id: '7543D3K7f1UArH68V4chp3',
+  images: [
+    {
+      height: 640,
+      url: 'https://mosaic.scdn.co/640/ab67616d0000b2730d1d6e9325275f104f8e33f3ab67616d0000b2730db43130a9aaa7bae56967edab67616d0000b273644c510e8d4c02ae69028297ab67616d0000b273a4dfa7122ec07fe3a1af22e7',
+      width: 640
+    },
+    {
+      height: 300,
+      url: 'https://mosaic.scdn.co/300/ab67616d0000b2730d1d6e9325275f104f8e33f3ab67616d0000b2730db43130a9aaa7bae56967edab67616d0000b273644c510e8d4c02ae69028297ab67616d0000b273a4dfa7122ec07fe3a1af22e7',
+      width: 300
+    },
+    {
+      height: 60,
+      url: 'https://mosaic.scdn.co/60/ab67616d0000b2730d1d6e9325275f104f8e33f3ab67616d0000b2730db43130a9aaa7bae56967edab67616d0000b273644c510e8d4c02ae69028297ab67616d0000b273a4dfa7122ec07fe3a1af22e7',
+      width: 60
+    }
+  ],
+  name: 'bass boooooosted',
+  owner: {
+    display_name: 'Tristan Stevens',
+    external_urls: { spotify: 'https://open.spotify.com/user/tristantheawesome1' },
+    href: 'https://api.spotify.com/v1/users/tristantheawesome1',
+    id: 'tristantheawesome1',
+    type: 'user',
+    uri: 'spotify:user:tristantheawesome1'
+  },
+  primary_color: null,
+  public: true,
+  snapshot_id: 'MjYsZmIxYzllNDdiYWYxNWFlZWNhMzUxZjE3Mjc3ODM4NjFkNjQ3YjQ4OQ==',
+  tracks: {
+    href: 'https://api.spotify.com/v1/playlists/7543D3K7f1UArH68V4chp3/tracks',
+    total: 23
+  },
+  type: 'playlist',
+  uri: 'spotify:playlist:7543D3K7f1UArH68V4chp3'
+}
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+{
+  collaborative: false,
+  description: '',
+  external_urls: {
+    spotify: 'https://open.spotify.com/playlist/3ZlOHyYHqCsiHgY52msp7L'
+  },
+  href: 'https://api.spotify.com/v1/playlists/3ZlOHyYHqCsiHgY52msp7L',
+  id: '3ZlOHyYHqCsiHgY52msp7L',
+  images: [
+    {
+      height: 640,
+      url: 'https://mosaic.scdn.co/640/ab67616d0000b2731ff041ead594c5f02cbacfe2ab67616d0000b2736ff5346166e82e87d8f80ce5ab67616d0000b273b2b07d95ac856dfe6011df65ab67616d0000b273db24f6590f4ad36048076521',
+      width: 640
+    },
+    {
+      height: 300,
+      url: 'https://mosaic.scdn.co/300/ab67616d0000b2731ff041ead594c5f02cbacfe2ab67616d0000b2736ff5346166e82e87d8f80ce5ab67616d0000b273b2b07d95ac856dfe6011df65ab67616d0000b273db24f6590f4ad36048076521',
+      width: 300
+    },
+    {
+      height: 60,
+      url: 'https://mosaic.scdn.co/60/ab67616d0000b2731ff041ead594c5f02cbacfe2ab67616d0000b2736ff5346166e82e87d8f80ce5ab67616d0000b273b2b07d95ac856dfe6011df65ab67616d0000b273db24f6590f4ad36048076521',
+      width: 60
+    }
+  ],
+  name: 'embrace the ginger',
+  owner: {
+    display_name: 'Tristan Stevens',
+    external_urls: { spotify: 'https://open.spotify.com/user/tristantheawesome1' },
+    href: 'https://api.spotify.com/v1/users/tristantheawesome1',
+    id: 'tristantheawesome1',
+    type: 'user',
+    uri: 'spotify:user:tristantheawesome1'
+  },
+  primary_color: null,
+  public: true,
+  snapshot_id: 'OSxlNWNlZTgzZDBlNjdhMDQ4NmFjYjBhZWI0NDg0NTczNTU2ZTc1MWEw',
+  tracks: {
+    href: 'https://api.spotify.com/v1/playlists/3ZlOHyYHqCsiHgY52msp7L/tracks',
+    total: 5
+  },
+  type: 'playlist',
+  uri: 'spotify:playlist:3ZlOHyYHqCsiHgY52msp7L'
+}
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+{
+  collaborative: false,
+  description: '',
+  external_urls: {
+    spotify: 'https://open.spotify.com/playlist/6Oul7sPA0N3LDgjEaKPJPp'
+  },
+  href: 'https://api.spotify.com/v1/playlists/6Oul7sPA0N3LDgjEaKPJPp',
+  id: '6Oul7sPA0N3LDgjEaKPJPp',
+  images: [
+    {
+      height: 640,
+      url: 'https://mosaic.scdn.co/640/ab67616d0000b27309ed258d5450a185aff02dd8ab67616d0000b2737d9057ae7e380fca1f2b01dbab67616d0000b273d1a727940d3fb3802a3a49e1ab67616d0000b273d241324e9e9f14f83f293c5a',
+      width: 640
+    },
+    {
+      height: 300,
+      url: 'https://mosaic.scdn.co/300/ab67616d0000b27309ed258d5450a185aff02dd8ab67616d0000b2737d9057ae7e380fca1f2b01dbab67616d0000b273d1a727940d3fb3802a3a49e1ab67616d0000b273d241324e9e9f14f83f293c5a',
+      width: 300
+    },
+    {
+      height: 60,
+      url: 'https://mosaic.scdn.co/60/ab67616d0000b27309ed258d5450a185aff02dd8ab67616d0000b2737d9057ae7e380fca1f2b01dbab67616d0000b273d1a727940d3fb3802a3a49e1ab67616d0000b273d241324e9e9f14f83f293c5a',
+      width: 60
+    }
+  ],
+  name: 'country',
+  owner: {
+    display_name: 'Tristan Stevens',
+    external_urls: { spotify: 'https://open.spotify.com/user/tristantheawesome1' },
+    href: 'https://api.spotify.com/v1/users/tristantheawesome1',
+    id: 'tristantheawesome1',
+    type: 'user',
+    uri: 'spotify:user:tristantheawesome1'
+  },
+  primary_color: null,
+  public: true,
+  snapshot_id: 'MTIsZTI4MDU2ZTRkMzkxZDMxZDBlOGUyZDk3YjcyOTA2YjhlOGZkNzI3ZA==',
+  tracks: {
+    href: 'https://api.spotify.com/v1/playlists/6Oul7sPA0N3LDgjEaKPJPp/tracks',
+    total: 10
+  },
+  type: 'playlist',
+  uri: 'spotify:playlist:6Oul7sPA0N3LDgjEaKPJPp'
+}
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+{
+  collaborative: false,
+  description: '',
+  external_urls: {
+    spotify: 'https://open.spotify.com/playlist/2Cfm2L1iaW3KWjGZbH6uBE'
+  },
+  href: 'https://api.spotify.com/v1/playlists/2Cfm2L1iaW3KWjGZbH6uBE',
+  id: '2Cfm2L1iaW3KWjGZbH6uBE',
+  images: [
+    {
+      height: 640,
+      url: 'https://mosaic.scdn.co/640/ab67616d0000b2738e5aba8b5c8c3a4756bd20c6ab67616d0000b273ad0a9e085d8e99c1818b24d2ab67616d0000b273b2f08285e7623165bebe0749ab67616d0000b273bd8ec1293ff1e0c0625fb5cb',
+      width: 640
+    },
+    {
+      height: 300,
+      url: 'https://mosaic.scdn.co/300/ab67616d0000b2738e5aba8b5c8c3a4756bd20c6ab67616d0000b273ad0a9e085d8e99c1818b24d2ab67616d0000b273b2f08285e7623165bebe0749ab67616d0000b273bd8ec1293ff1e0c0625fb5cb',
+      width: 300
+    },
+    {
+      height: 60,
+      url: 'https://mosaic.scdn.co/60/ab67616d0000b2738e5aba8b5c8c3a4756bd20c6ab67616d0000b273ad0a9e085d8e99c1818b24d2ab67616d0000b273b2f08285e7623165bebe0749ab67616d0000b273bd8ec1293ff1e0c0625fb5cb',
+      width: 60
+    }
+  ],
+  name: 'fucking nuggets',
+  owner: {
+    display_name: 'Tristan Stevens',
+    external_urls: { spotify: 'https://open.spotify.com/user/tristantheawesome1' },
+    href: 'https://api.spotify.com/v1/users/tristantheawesome1',
+    id: 'tristantheawesome1',
+    type: 'user',
+    uri: 'spotify:user:tristantheawesome1'
+  },
+  primary_color: null,
+  public: true,
+  snapshot_id: 'MTQsNTNkZjhiMTZlMjQwZDJhZTlkYzUyMmI2YjFmZTVlNjg0NTYxZTA1OQ==',
+  tracks: {
+    href: 'https://api.spotify.com/v1/playlists/2Cfm2L1iaW3KWjGZbH6uBE/tracks',
+    total: 9
+  },
+  type: 'playlist',
+  uri: 'spotify:playlist:2Cfm2L1iaW3KWjGZbH6uBE'
+}
+------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+{
+  collaborative: false,
+  description: 'not rap',
+  external_urls: {
+    spotify: 'https://open.spotify.com/playlist/0KjmwZJNRL3S9qF8kDB6YO'
+  },
+  href: 'https://api.spotify.com/v1/playlists/0KjmwZJNRL3S9qF8kDB6YO',
+  id: '0KjmwZJNRL3S9qF8kDB6YO',
+  images: [
+    {
+      height: null,
+      url: 'https://i.scdn.co/image/ab67706c0000bebb74bb59a21fcc224f8f42fd31',
+      width: null
+    }
+  ],
+  name: 'pop',
+  owner: {
+    display_name: 'Tristan Stevens',
+    external_urls: { spotify: 'https://open.spotify.com/user/tristantheawesome1' },
+    href: 'https://api.spotify.com/v1/users/tristantheawesome1',
+    id: 'tristantheawesome1',
+    type: 'user',
+    uri: 'spotify:user:tristantheawesome1'
+  },
+  primary_color: null,
+  public: true,
+  snapshot_id: 'MzIwLGMzZTZiYzhkYTgwOTU1N2EzMTcwOTg2NTlkMzJjMGU2OGM3YzE3OTE=',
+  tracks: {
+    href: 'https://api.spotify.com/v1/playlists/0KjmwZJNRL3S9qF8kDB6YO/tracks',
+    total: 414
+  },
+  type: 'playlist',
+  uri: 'spotify:playlist:0KjmwZJNRL3S9qF8kDB6YO'
+}
+------------------------------------------------------------------------------------------------
